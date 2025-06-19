@@ -58,11 +58,3 @@ We will need to configure an OAuth API endpoint to enable our logic apps to auth
     ![Configure OAuth API Endpoint](./images/02_08_oauth_client_config.png "configure oauth api endpoint")
 
 1. Save the `Client ID`, `Client Secret`  and the `Instance Name` created in this module for late steps when configuring the Logic Apps connection to ServiceNow
-
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="03_enable_open_ai_model.md" title= "Module 3">Module 3: Prequistes - ServiceNow setup</a>  
-**Next:** <a href="05_provision_logic_apps_standard.md" title= "Next: Module 3">Module 5: Provision Logic Apps Standard</a>      
-
-</div>

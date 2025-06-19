@@ -102,11 +102,5 @@ In this module we will take the ServiceNow Update Incident workflow and add it a
    - Note the update has been captured in the work notes for the incident.
     ![ServiceNow Updated Incident](./images/11_14_servicenow_updated_incident.png "servicenow updated incident")
 
-<div align="right" valign="middle">
-
-**Previous:** <a href="10_create_tool_servicenow_update_incident.md" title= "Pevious: Module 10">Module 10: Create Tool - ServiceNow Update Incident</a>  
-**Next:** <a href="12_create_tool_servicenow_close_incident.md" title= "Next: Module 12">Module 12: Create Tool - ServiceNow Close Incident</a>      
-
-</div>
 
    

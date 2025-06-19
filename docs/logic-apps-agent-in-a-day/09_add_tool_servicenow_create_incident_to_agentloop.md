@@ -130,11 +130,4 @@ In this module we will take the ServiceNow Create Incident workflow and add it a
     ![ServiceNow Incident Details](./images/09_17_servnicenow_incident_detailspng.png "servicenow incident details")
 
 
-<div align="right" valign="middle">
-
-**Previous:** <a href="08_create_tool_servicenow_create_incident.md" title= "Pevious: Module 8">Module 8: Create Tool - ServiceNow Create Incident</a>  
-**Next:** <a href="10_create_tool_servicenow_update_incident.md" title= "Next: Module 10">Module 10: Create Tool - ServiceNow Update Incident</a>      
-
-</div>
-
    

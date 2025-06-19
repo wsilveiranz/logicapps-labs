@@ -116,10 +116,4 @@ In this module we will take the ServiceNow Close Incident workflow and add it as
         ![ServiceNow Updated Incident](./images/13_14_servicenow_updated_incident.png "servicenow updated incident")
 
 
-<div align="right" valign="middle">
-
-**Previous:** <a href="12_create_tool_servicenow_close_incident.md" title= "Pevious: Module 10">Module 12: Create Tool - ServiceNow Close Incident</a>  
-
-</div>
-
    

@@ -103,11 +103,3 @@ Within our agent, we will support a variety of user prompts that the agent will 
 
 
 **Let’s get started on this exciting journey together!**
-
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="Readme.md" title= "Pevious: Overview">Introduction</a>  
-**Next:** <a href="02_create_resource_group.md" title= "Next: Module 2">Module 2: Creating the Resource Group</a>      
-
-</div>

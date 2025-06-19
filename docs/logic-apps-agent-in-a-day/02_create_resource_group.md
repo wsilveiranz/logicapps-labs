@@ -16,12 +16,3 @@ In this module we will create the resource group that will contains all the reso
     - **Click**:  `Review + Create`
 
     ![Configure Resourse Group](./images/03_03_configure_resource_group.png)
-
-
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="01_introduction.md" title= "Module 1">Module 1: Introduction</a>  
-**Next:** <a href="03_enable_open_ai_model.md" title= "Next: Module 3">Module 3: Enable OpenAI Model</a>      
-
-</div>

@@ -47,12 +47,3 @@ In this module we will provision the OpenAI service and deploy the GPT4.1 Model 
 1. Test your models deployment by entering a prompt 
 
     ![Test gpt-4.1 model](./images/04_08_gpt-4-1_test_prompt.png "Test gpt-4.1 model")
-
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="02_create_resource_group.md" title= "Module 2">Module 2: Create Resource Group</a>  
-**Next:** <a href="04_servicenow_dev_sandbox.md" title= "Next: Module 4">Module 4: Prequistes - ServiceNow setup</a>      
-
-</div>
-

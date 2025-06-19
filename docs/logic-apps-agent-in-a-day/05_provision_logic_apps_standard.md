@@ -27,10 +27,3 @@ In the module we will provision a Logic Apps Standard instance enabling us to cr
 
     ![Review Configuration and Create](./images/05_05_review_create_logic_apps_instance.png "reivew configuration and create")    
 
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="04_enable_open_ai_model.md" title= "Module 4">Module 4: Enable OpenAI Model</a>  
-**Next:** <a href="06_setup_knowledge_base.md" title= "Next: Module 6">Module 6: Setup the Knowledgebase</a>      
-
-</div>

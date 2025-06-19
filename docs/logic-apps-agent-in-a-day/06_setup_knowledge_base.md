@@ -81,11 +81,3 @@ We will need to grant the Logic Apps instance access to read the blobs in our st
     - Click `Select`
     - Click `Close`
 
-
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="05_provision_logic_apps_standard.md" title= "Pevious: Module 5">Module 5: Provision Logic Apps Standard</a>  
-**Next:** <a href="07_create_agent_loop_workflow.md" title= "Next: Module 7">Module 7: Configure Agent Loop Workflow</a>      
-
-</div>

@@ -187,11 +187,4 @@ In this module we will create a stateful workflow to create a ServiceNow Inciden
     ![Save Workflow Confirmation](./images/08_20_save_worklow_confirmation.png "save workflow confirmation")
 
 
-<div align="right" valign="middle">
-
-**Previous:** <a href="07_configure_agent_loop_workflow.md" title= "Pevious: Module 7">Module 7: Configure Agent Loop Workflow</a>  
-**Next:** <a href="09_add_tool_servicenow_create_incident_to_agentloop.md" title= "Next: Module 9">Module 9: Create Tool - ServiceNow Create Incident</a>      
-
-</div>
-
 

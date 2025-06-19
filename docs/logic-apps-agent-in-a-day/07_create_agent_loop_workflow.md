@@ -232,13 +232,5 @@ Now that we've connect workflow to OpenAI and created our first tool, lets test 
 
     ![Agent Chat - Prompt 2 Assignment Group](./images/07_36_workflow_chat_prompt2_assignment_group.png "agent chat prompt 2 assignment group")
 
-<div align="right" valign="middle">
-
-**Previous:** <a href="06_setup_knowledge_base.md" title= "Pevious: Module 6">Module 6: Setup the Knowledgebase</a>  
-**Next:** <a href="08_create_tool_servicenow_create_incident.md" title= "Next: Module 8">Module 8: Create Tool - ServiceNow Create Incident</a>      
-
-
-
-</div>
 
    

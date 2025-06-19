@@ -111,12 +111,3 @@ In this module we will create a stateful workflow to update an existing ServiceN
 
     ![Save Workflow](./images/10_14_save_workflow.png "save workflow")
 
-
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="09_add_tool_servicenow_create_incident_to_agentloop.md" title= "Previous: Module 9">Module 9: Create Tool - ServiceNow Create Incident</a>      
-
-**Next:** <a href="11_add_tool_servicenow_update_incident_to_agentloop.md" title= "Next: Module 11">Module 11: Add ServiceNow Update Incident Tool to Agent Loop</a>      
-
-</div>

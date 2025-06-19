@@ -112,12 +112,3 @@ In this module we will create a stateful workflow to close an existing ServiceNo
 
     ![Save Workflow](./images/12_15_save_workflow.png "save workflow")
 
-
-
-<div align="right" valign="middle">
-
-**Previous:** <a href="11_add_tool_servicenow_update_incident_to_agentloop.md" title= "Previous: Module 9">Module 11: Add ServiceNow Update Incident Tool to Agent Loop</a>      
-
-**Next:** <a href="13_add_tool_servicenow_close_incident_to_agentloop.md" title= "Next: Module 10">Module 13: Create Tool - ServiceNow Close Incident</a>      
-
-</div>
