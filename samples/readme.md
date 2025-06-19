@@ -1,10 +1,10 @@
-#Logic Apps Samples
+# Logic Apps Samples
 
 You can use this folder to share Logic Apps sample.
 
 ## List of Samples
 
-- **Sample Logic Apps Workspace**: This is a simple request response project, just to exemplify the required structure.
+- [**Sample Logic Apps Workspace**](./sample-logicapp-workspace/): This is a simple request response project, just to exemplify the required structure.
 
 ## How to contribute
 
