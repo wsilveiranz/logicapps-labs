@@ -1,0 +1,54 @@
+{ 
+"name": "enterprise-data", 
+"fields": [ 
+{ 
+"name": "id", 
+"type": "Edm.String", 
+"searchable": true, 
+"retrievable": true, 
+"key": true 
+}, 
+{ 
+"name": "documentName", 
+"type": "Edm.String", 
+"searchable": true, 
+"retrievable": true 
+}, 
+{
+"name": "content", 
+"type": "Edm.String", 
+"searchable": true, 
+"retrievable": true 
+},
+{
+"name": "embeddings", 
+"type": "Collection(Edm.Single)", 
+"searchable": true, 
+"filterable": false, 
+"retrievable": true, 
+"dimensions": 3072, 
+"vectorSearchProfile": "vector-profile" 
+}
+], 
+"vectorSearch": { 
+"algorithms": [ 
+{
+"name": "vector-config", 
+"kind": "hnsw", 
+"hnswParameters": { 
+"metric": "cosine", 
+"m": 4, 
+"efConstruction": 400, 
+"efSearch": 500 
+}, 
+"exhaustiveKnnParameters": null 
+} 
+], 
+"profiles": [ 
+{ 
+"name": "vector-profile", 
+"algorithm": "vector-config" 
+} 
+] 
+} 
+} 

@@ -8,8 +8,6 @@ ms.topic: tutorial
 ms.date: 08/27/2025
 ---
 
-# Add knowledge to your agent (Module 07)
-
 This module explains how to add basic custom knowledge to your Azure Logic Apps agents.
 
 When finished with this module, you'll have gain the following knowledge:
@@ -29,8 +27,9 @@ Azure Logic Apps provides a comprehensive suite of document processing and trans
 ### Step 1 - Setup your agent
 > :::note
 > Prerequisites for this module are the following
-- You have access to an Azure Storage Account resource. For steps on setting this resource up, follow the guide here [Create an Azure storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal).
-- You have a upload a pdf document to your storage resource. The link to this resource will be used in the next steps. The pdf used in this module can be download here [Benefit_Options.pdf](media/03-add-knowledge-to-agent/Benefit_Options.pdf)  
+> - You have access to an Azure Storage Account resource. For steps on setting this resource up, follow the guide here [Create an Azure storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal).
+> - You have uploaded a pdf document to your storage resource. The link to this resource will be used in the next steps. The pdf used in this module can be download here [Benefit_Options.pdf](media/03-add-knowledge-to-agent/Benefit_Options.pdf)  
+> - You have access to an Azure Search service. For more on creating this resource visit here [Create an Azure AI Search service](https://learn.microsoft.com/en-us/azure/search/tutorial-optimize-indexing-push-api#create-an-azure-ai-search-service). This module assume your search index is created using this index schema 
 
 
 1. In the [Azure portal](https://portal.azure.com), open your Standard logic app resource.
